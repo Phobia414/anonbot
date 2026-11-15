@@ -1,0 +1,22 @@
+# Виртуальное окружение Python
+venv/
+.venv/
+env/
+
+# Файлы PyCharm
+.idea/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Файлы с секретами (токены, пароли)
+.env
+config.py
+
+# Базы данных (если используете SQLite)
+*.db
+*.sqlite3
+
+# Логи
+*.log
